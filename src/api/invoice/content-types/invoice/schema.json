@@ -34,6 +34,9 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::customer.customer"
+    },
+    "number": {
+      "type": "biginteger"
     }
   }
 }
