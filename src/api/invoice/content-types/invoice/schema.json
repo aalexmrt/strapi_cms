@@ -45,6 +45,9 @@
       "allowedTypes": [
         "files"
       ]
+    },
+    "sentTimestamp": {
+      "type": "datetime"
     }
   }
 }
